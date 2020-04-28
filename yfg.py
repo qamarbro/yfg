@@ -47,8 +47,9 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ --------------------­---------•◈• \033[1;91mY̳O̳U̳N̳G̳­ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ 
-\033[1;91mPOWERD BY BRANDED X SQUAD UNITY ✌️🌹💝✌️ 
+logo = """ --------------------­---------•◈• 
+\033[1;91mY̳O̳U̳N̳G̳­ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ 
+\033[1;93mPOWERD BY BRANDED X SQUAD UNITY ✌️🌹💝✌️ 
 \033[1;91mY̳O̳U̳N̳G̳­ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ 
 \033[1;91m ==========­====================­=========
 \033[1;91m=======================================
@@ -284,7 +285,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;96m[\033[1;97m✸\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
-	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z  wait cloning start ho chuki hai')
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z wait cloning start ho chuki hai Cloning wale Ids listwise show honge ')
 	print 42*"\033[1;96m="
 	
 			
