@@ -47,19 +47,15 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
+logo = """ --------------------­---------•◈• \033[1;91mY̳O̳U̳N̳G̳­ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ 
+\033[1;91mPOWERD BY BRANDED X SQUAD UNITY ✌️🌹💝✌️ 
+\033[1;91mY̳O̳U̳N̳G̳­ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ 
+\033[1;91m ==========­====================­=========
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92m QAMAR ABBAS
+\033[1;96mInstagram \033[1;93m: \033[1;Bamar Babu
+\033[1;96mFacebook  \033[1;93m: \033[1; qamar0786
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/qamarbro/yfg
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +76,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Qamar Abbas
+\033[1;96mInstagram \033[1;93m: \033[1;92m Bamar Babu
+\033[1;96mFacebook  \033[1;93m: \033[1;92m qamar0786
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/qamarbro/yfg
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "yfg"
+CorrectPassword = "yfg"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +96,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UCHDj02zcHqxRicSBe-ubjGg?view=')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/channel/UCHDj02zcHqxRicSBe-ubjGg?view=')
 
 def login():
 	os.system('clear')
@@ -288,7 +284,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;96m[\033[1;97m✸\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
-	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z')
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z  wait cloning start ho chuki hai')
 	print 42*"\033[1;96m="
 	
 			
