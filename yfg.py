@@ -17,7 +17,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 
 def keluar():
-	print "\033[1;96m[!] \x1b[1;91mExit"
+	print "\033[1;96m[!] \x1b[1;91mExit"]]
 	os.sys.exit()
 
 
@@ -34,8 +34,8 @@ def cetak(b):
     for i in w:
         j = w.index(i)
         x= x.replace('!%s'%i,'\033[%s;1m'%str(31+j))
-    x += '\033[0m'
-    x = x.replace('!0','\033[0m')
+    x += '\033[0m]'
+    x = x.replace('!0','\033[0m]')
     sys.stdout.write(x+'\n')
 
 
@@ -53,16 +53,16 @@ logo = """ --------------------­---------•◈•
 \033[1;91mY̳O̳U̳N̳G̳­ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ Y̳O̳U̳N̳G̳ F̳I̳G̳H̳T̳E̳R̳ G̳A̳N̳G̳ 
 \033[1;91m ==========­====================­=========
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m QAMAR ABBAS
-\033[1;96mInstagram \033[1;93m: \033[1;Bamar Babu
-\033[1;96mFacebook  \033[1;93m: \033[1; qamar0786
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/qamarbro/yfg
-\033[1;91m======================================="""
+\033[1;96mAuthor  \033[1;93m: \033[1;92m QAMAR ABBAS]
+\033[1;96mInstagram \033[1;93m: \033[1;  Qamar Babu]
+\033[1;96mFacebook  \033[1;93m: \033[1;  qamar0786]
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/qamarbro/yfg]
+\033[1;91m======================================="""]
 
 def tik():
-	titik = ['.   ','..  ','... ']
+	titik = [".   ','  '..'  ',' '...' "]
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●]\x1b[1;93mSigning in\x1b[1;97m"+o]]]),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
