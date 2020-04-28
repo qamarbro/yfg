@@ -287,7 +287,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;96m[\033[1;97m✸\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
-	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z wait cloning start ho chuki hai Cloning wale Ids listwise show honge ')
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL +Z wait cloning start ho chuki hai Cloning wale Ids listwise show honge ')
 	print 42*"\033[1;96m="
 	
 			
