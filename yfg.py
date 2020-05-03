@@ -400,7 +400,6 @@ def pilih_super():
 																	cek.write(user+"|"+pass7+"\n")
 																	cek.close()
 																	cekpoint.append(user+pass7)
-																	
 																	else:
 																	
 										pass8 = '000000'
